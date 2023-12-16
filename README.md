@@ -1,4 +1,4 @@
-# Project Title
+# Unity Custom Package Template
 
-A brief description of what this project does.
+A template for making custom unity packages.
 
