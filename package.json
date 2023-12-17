@@ -3,25 +3,10 @@
     "version": "1.0.0",
     "displayName": "Custom Package Template",
     "description": "This is an template for making custom packages",
-    "unity": "2022.0",
+    "unity": "2022.1",
     "documentationUrl": "https://ambargames.com/",
     "changelogUrl": "https://ambargames.com/changelog.html",
     "licensesUrl": "https://ambargames/licensing.html",
-    "dependencies": {
-        "com.codelibrary24.dummydependency": "1.0.0"
-    },
-    "samples": [
-        {
-            "displayName": "Dummy Sample 01",
-            "description": "This is a Dummy description",
-            "path": "Samples~/SampleFolder_01"
-        },
-        {
-            "displayName": "Dummy Sample 02",
-            "description": "This is a dummy description.",
-            "path": "Samples~/SampleFolder_02"
-        }
-    ],
     "keywords": [
         "Custom",
         "Package",
