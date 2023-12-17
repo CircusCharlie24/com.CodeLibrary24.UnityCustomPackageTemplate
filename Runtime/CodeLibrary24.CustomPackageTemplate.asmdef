@@ -1,0 +1,14 @@
+{
+    "name": "CodeLibrary24.CustomPackageTemplate",
+    "rootNamespace": "CodeLibrary24.CustomPackageTemplate",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
