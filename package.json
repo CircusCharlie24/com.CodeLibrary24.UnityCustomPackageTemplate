@@ -1,5 +1,5 @@
 {
-    "name": "com.codelibrary24.CustomPackageTemplate",
+    "name": "com.codelibrary24.custompackagetemplate",
     "version": "1.0.0",
     "displayName": "Custom Package Template",
     "description": "This is an template for making custom packages",
@@ -8,7 +8,7 @@
     "changelogUrl": "https://ambargames.com/changelog.html",
     "licensesUrl": "https://ambargames/licensing.html",
     "dependencies": {
-        "com.codelibrary24.DummyDependency": "1.0.0"
+        "com.codelibrary24.dummydependency": "1.0.0"
     },
     "samples": [
         {
