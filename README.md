@@ -49,3 +49,5 @@ A template for making custom unity packages.
  6. Samples~ is not shown inside unity as long as the '~' is part of the name, hence when you want to edit the samples, remove the ~ and add it back when you are done and ready to publish the package.
     
 
+## Important
+1. Package names should always be lower case for example "com.companyname.packagename"
