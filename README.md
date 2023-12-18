@@ -35,7 +35,7 @@ A template for making custom unity packages.
         {
             "displayName": "Dummy Sample 01",
             "description": "This is a Dummy description",
-            "path": "Samples~/Sample_01"
+            "path": "Samples~/SampleFolder_01"
         }
     ],
  
