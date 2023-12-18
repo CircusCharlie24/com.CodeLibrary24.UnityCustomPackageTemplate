@@ -6,15 +6,16 @@ A template for making custom unity packages.
 
 1. Create a folder called Runtime
 2. Add Scripts and other work, you can add folders like Script, Prefabs, Resources etc - just like you do for projects, keep it clean
-3. Inside the Runtime folder. create an Assembly Definition file - name it as CompanyName.PackageName
+3. Inside the Runtime folder. create an Assembly Definition file - name it as CompanyName.PackageName ( for example: CodeLibrary24.CustomPackageTemplate )
 4. Add the root namespace as CompanyName.PackageName
 
 ## Adding Editor code
 
 1. Create a folder called Editor
 2. Add Scripts and other work, you can add folders like Script, Prefabs, Resources etc - just like you do for projects, keep it clean
-3. Inside the Editor folder. create an Assembly Definition file - name it as CompanyName.PackageName.Editor
-4. Add the root namespace as CompanyName.PackageName
+3. Inside the Editor folder. create an Assembly Definition file - name it as CompanyName.PackageName.Editor ( for example: CodeLibrary24.CustomPackageTemplate.Editor )
+4. Make sure to select only Editor in the platform and keep de-select other platforms
+5. Add the root namespace as CompanyName.PackageName
 
 ## Adding dependencies
 
