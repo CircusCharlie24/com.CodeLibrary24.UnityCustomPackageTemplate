@@ -9,14 +9,14 @@ A template for making custom unity packages.
 3. Inside the Runtime folder. create an Assembly Definition file - name it as CompanyName.PackageName
 4. Add the root namespace as CompanyName.PackageName
 
-# Adding Editor code
+## Adding Editor code
 
 1. Create a folder called Editor
 2. Add Scripts and other work, you can add folders like Script, Prefabs, Resources etc - just like you do for projects, keep it clean
 3. Inside the Editor folder. create an Assembly Definition file - name it as CompanyName.PackageName.Editor
 4. Add the root namespace as CompanyName.PackageName
 
-# Adding dependencies
+## Adding dependencies
 
 1.Add the following in the package.json file:-
   
@@ -26,7 +26,7 @@ A template for making custom unity packages.
  },
 
 
- # Adding Samples
+ ## Adding Samples
  
  1. Create a folder called Sample~
  2. Inside Sample~ create a folder called SampleFolder_01
