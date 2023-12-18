@@ -12,13 +12,6 @@
         "Package",
         "Template"
     ],
-    "samples": [
-        {
-            "displayName": "Dummy Sample 01",
-            "description": "This is a Dummy description",
-            "path": "Samples~/Sample_01"
-        }
-    ],
     "author": {
         "name": "Divkaran",
         "email": "circuscharlie2428@gmail.com",
