@@ -2,7 +2,7 @@
 
 A template for making custom unity packages.
 
-# Adding Runtime code
+## Adding Runtime code
 
 1. Create a folder called Runtime
 2. Add Scripts and other work, you can add folders like Script, Prefabs, Resources etc - just like you do for projects, keep it clean
