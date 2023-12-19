@@ -52,4 +52,4 @@ A template for making custom unity packages.
 
 ## Important
 1. Package names should always be lower case for example "com.companyname.packagename"
-2. If you face an issue related to GUIDs and get a message saying that Guid for some folder or file already exists, just uninstall the packages, go to Unity package cache and delete the folder with the same name as the server URL. To go to the unity cache filder just type "**%LOCALAPPDATA%\Unity\cache**" in the Windows search bar. 
+2. If you face an issue related to GUIDs and get a message saying that Guid for some folder or file already exists, just uninstall the packages, go to Unity package cache and delete all the folders with the same name as the server URL. To go to the unity cache filder just type "**%LOCALAPPDATA%\Unity\cache**" in the Windows search bar. 
